@@ -1,5 +1,12 @@
-# Ignore all class files
+# Ignore all .class files except those in bin/
 *.class
+!bin/**/*.class
 
-# Ignore bin directory
-/bin/
+# IDE/Editor files
+.idea/
+*.iml
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
