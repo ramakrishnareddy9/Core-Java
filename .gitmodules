@@ -1,3 +1,3 @@
-[submodule "Multithreading"]
-	path = Multithreading
+[submodule "src/Multithreading"]
+	path = src/Multithreading
 	url = https://github.com/ramakrishnareddy9/Multithreading.git
