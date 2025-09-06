@@ -1,4 +1,4 @@
-package ClassesAndObjects.thisKeyword.AbstractClasses;
+package Oops.thisKeyword.AbstractClasses;
 
 abstract class Shape {
     String color;

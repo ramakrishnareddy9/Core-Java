@@ -1,4 +1,4 @@
-package ClassesAndObjects.thisKeyword.interfaces;
+package Oops.thisKeyword.interfaces;
 
 interface Builder<T> {
     default T setName(String name) {

@@ -1,4 +1,4 @@
-package ClassesAndObjects;
+package Oops;
 
 class MathOperations {
     int add(int a, int b) {

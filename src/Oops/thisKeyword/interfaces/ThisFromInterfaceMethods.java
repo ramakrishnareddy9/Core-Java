@@ -1,4 +1,4 @@
-package ClassesAndObjects.thisKeyword.interfaces;
+package Oops.thisKeyword.interfaces;
 
 interface Clickable {
     default void click(Handler handler) {

@@ -1,4 +1,4 @@
-package ClassesAndObjects.thisKeyword.interfaces;
+package Oops.thisKeyword.interfaces;
 
 interface Logger {
     private void log(String msg) {

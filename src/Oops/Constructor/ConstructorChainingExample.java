@@ -1,4 +1,4 @@
-package ClassesAndObjects.Constructor;
+package Oops.Constructor;
 
 // Base class
 class Person {
