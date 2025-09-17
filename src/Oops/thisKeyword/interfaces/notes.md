@@ -152,7 +152,7 @@ Gotchas:
     If your interface is generic, you can type the handler more strongly (e.g., Handler<? super Clickable> or Handler<Button> patterns).
 
 Quick comparison (when this is available in interfaces)
- ✅ default methods: yes
+ ✅default methods: yes
  ✅ private methods (Java 9+): yes
  ❌ static methods: no (this doesn’t exist)
  ❌ constructors: interfaces don’t have them
